@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 60,
+    "timeDay": 67,
     "timeWeek": 72,
     "timeMonth": 73,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2022-04-13": 0
+      "2022-04-13": 12
     }
   },
   {
